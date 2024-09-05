@@ -1,4 +1,8 @@
-### <div align="center">Hi there🌟I am Xinyu Mu, a master's student in software engineering.🚀</div>  
+# Xinyu Mu
+
+## Introduction
+
+### :clap: Hi there
   
 
 - :telescope: I’m currently studying in Tsinghua University.  
